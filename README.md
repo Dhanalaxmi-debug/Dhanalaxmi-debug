@@ -11,7 +11,6 @@
 
 ## 📫 Connect With Me
 
-- GitHub: [https://github.com/your-username](https://github.com/Dhanalaxmi-debug)
 - LinkedIn: www.linkedin.com/in/dhanalaxmi-wagh
 - Email: dhanalaxmiwagh@gmail.com
 
