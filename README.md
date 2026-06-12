@@ -15,8 +15,3 @@
 - LinkedIn: www.linkedin.com/in/dhanalaxmi-wagh
 - Email: dhanalaxmiwagh@gmail.com
 
----
-
-## ✨ Quote
-
-> “Code, learn, build, and make an impact.”
